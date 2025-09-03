@@ -142,7 +142,7 @@ The application is designed with a mobile-first approach, ensuring optimal user 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rano-g/easygrc.git
    cd easygrc
    ```
 
